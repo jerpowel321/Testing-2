@@ -2,7 +2,7 @@
 
 <img src="assets/images/inspectorotter-readme.png" width= "250px">
 
-[this is an Anchor](#Introduction)
+# Introduction (# introduction)
 Inspector Otter's Word Search Engine is a professional, reliable, efficient word definer and translator. 
 * Are you new to an area and find yourself constantly confused by the lingo that locals use?
 * Are you tired of feeling left out when hearing your friends speak in slang terms you dont understand? 
@@ -14,7 +14,7 @@ If you answered YES to any of the questions above, HAVE NO FEAR! Inspector Otter
 
 
 # Table of Contents
-- Introduction
+- [Introduction]
 - Technologies Used 
     * HTML
     * CSS
