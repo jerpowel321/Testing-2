@@ -16,70 +16,90 @@ If you answered YES to any of the questions above, HAVE NO FEAR! Inspector Otter
 # Table of Contents
 
 - [Introduction](#introduction) 
-- Technologies Used 
-    * HTML
-    * CSS
-    * JavaScript
-    * JQuery
-    * Bideo.js
-    * Jumble 
-    * BootStrap
-    * Firebases
-    * AJAX
-- Deployed Site
-- Meet the Authors
-- About Inspector Otter
+- [Technologies Used](#technology) 
+    * [HTML](#style) 
+    * [CSS](#style) 
+    * [BootStrap](#style) 
+    * [GoogleFonts](#style) 
+    * [Jumble](#jumble) 
+    * [Bideo.js](#bideo)
+    * [JavaScript](#java)
+    * [JQuery](#java)
+    * [AJAX](#ajax)
+    * [Firebases](#firebase)
+- [Deployed Site](#deployed)
+- [Meet the Authors](#authors)
+- [About Inspector Otter](#otter)
 
 ---
 
-# Technologies Used 
+# <a name="technology"> Technologies Used </a>
 
-#### HTML CSS BootStrap
+#### <a name="style"> HTML CSS BootStrap</a>
 
+Upon loading our site, the user will see several items displayed on the screen. 
+1) A background video of waves coming ashore.
+2) A grey navigation bar at the top of the webpage displaying Inspector Otter's Logo to the left and a word search bar to the right with a yellow submit button. 
+3) A search area to the left where the user may put in their location and find cafes near them (as people who search word definitions may be new to the area). 
+4) An area where previously search words are displayed for the user to see. 
+5) A dark blue colored footer with an About button. 
 
+Upon clicking the **submit** button for a search word within the navigation bar, the user will be shown the **Merriam-Webster** definition of the word, along with several **new** buttons. The four new buttons that appear when a user searches a word are **Spanish**, **Chinese**, **Russian** and **Unofficial Definition**. 
 
+When clicked, the Spanish Chinese and Russian buttons, display the searched word's **translation**. When the unofficial definition button is clicked, the **Urban Dictionary** definition of the word searched is displayed. 
 
-#### Bideo.js
-Bideo.js is a JavaScript plugin which is a tool used to play a video in the background of a container/body. For our webpage we decided to feature a video of a string of waves crashing onto the sand for aesthetic reasons.
+When a user searches a location within the cafe search, images and information regarding local cafes are displayed so the user may get acquainted with the area as they may be new to the city or traveling from far far away.
 
-More information regarding Bideo.js can be found at: https://github.com/rishabhp/bideo.js 
+In terms of stying the webpage, we used BootStrap display the Navigation Bar, the Footer, Buttons, and to make our website responsive. We also used our own CSS style sheet to change some colors, fonts, positioning. Additionaly we used GoogleFonts to display our text using Inconsolata font.
 
-#### Jumble
-Jumble is a jQuery plugin that jumbles up the colours of your text headers, and can also animate them. We used this plugin to bring more color to our text. Jumble is used on the Names of the Authors on the About section of the website.
+#### <a name="jumble">Jumble</a>
+
+Jumble is a jQuery plugin that jumbles up the colours of your text headers, and can also animate them. We used this plugin to bring more color to our webpage. You can see the Jumble effect being used on the Names of the Authors on the About section of the website.
 
 More information regarding Jumble can be found at: https://github.com/vonKristoff/jumble
 
-#### Firebase 
+#### <a name="bideo">Bideo.js</a>
+
+Bideo.js is a JavaScript plugin which is a tool used to play a video in the background of a container/body. For our webpage we decided to feature a video of a string of waves crashing onto the beach for aesthetic reasons.
+
+More information regarding Bideo.js can be found at: https://github.com/rishabhp/bideo.js 
+
+
+#### <a name="java">JavaScript & Jquery</a>
+The majority of our html webpage is being appened through our JavaScript file using the Jquery library. Our JavaScript is organized ........
+
+#### <a name="firebase">Firebase</a>
 We are storing the user-inputted word into Firebase and calling back to Firebase to display the word on the page 
 
-#### AJAX
-Our team uses several APIs for our Inspector Otter Webpage. We are using Webster Dictionary API to retrieve the formal definitions of the word the user searches. We use Urban Dictionary API to retrieve the informal/slang word definitions the user can view upon clicking on the unformal definition button. We incorporate google translate into our website through the Spanish, Chinese and Russian buttons. When a user clicks on these buttons, the translated word appears in the selected foreign langugage. In addition we are using Zomato api which allows us to pull information related to resturants near a location the user inputs. The idea is to recommend cafes for the user to check out since our target group are new people to the area.
+#### <a name="ajax">AJAX</a>
+Our team uses several APIs for our Inspector Otter Webpage. 
+1) We are using Webster Dictionary API to retrieve the formal definitions of the word the user searches. https://www.merriam-webster.com/ 
+2) We use Urban Dictionary API to retrieve the informal/slang word definitions the user can view upon clicking on the unformal definition button. https://www.urbandictionary.com/
+3) We incorporate google translate into our website through the Spanish, Chinese and Russian buttons. When a user clicks on these buttons, the translated word appears in the selected foreign langugage. https://cloud.google.com/translate/
+4) In addition we are using Zomato api which allows us to pull information related to resturants near a location the user inputs. The idea is to recommend cafes for the user to check out since our target group are new people to the area. https://www.zomato.com/
 
-- https://www.merriam-webster.com/
-- https://www.urbandictionary.com/
-- https://cloud.google.com/translate/
-- https://www.zomato.com/
+
 
 ---
 
-# Deployed Site
+# <a name="deployed"> Deployed Site </a>
 Use the link to see the deployed site: https://kchoi123.github.io/GroupProject1/
 
 ---
 
-# Meet the Authors!
+# <a name="authors">Meet the Authors!</a>
 
-|     Author           |  Summary|    Fun Fact | Hobbies | GitHub |
-|----------------------|---------|-------------|---------|--------|
-|<b>Andrew Xie ![Andrew's Picture](assets/images/andrew.jpg)            |Andrew is a recent college graduate with a degree in International Politics. He hopes that this bootcamp will be the first step towards a career in web development. | | Watch sports  |https://github.com/Xieandrew2235|
-|<b>Cyrus Ghadiri          |UC Berkeley full-stack student with interests in moving into back-end web development. |Travels to a new country every year.| Traveling |https://github.com/ctghadiri|
-|<b>Jennifer Powell ![Jennifer's Picture](assets/images/jennifer.jpeg)       |Born and raised in the bay area, Jennifer has spent the last several years working in public accounting. She currently attends UC Berkley extension Coding Bootcamp with the hopes of switching careers into web and software development.| Jennifer has been skydiving!| Card Games, Bowling, Swimming  |https://github.com/jerpowel321|
-|<b>Kevin Choi  ![Kevin's Picture](assets/images/kevin.jpg)           |Kevin Choi comes from a background in IT Infrastructure specializing in hybrid system deployment using co-locations, AWS, Azure, Rackspace, and SoftLayer. His goal is to develop tools that will help collaborate hardware and software incompatibilities, both technologically and departmentally.|             |     |https://github.com/kchoi123|
-|<b>Shayan Anoushiravani   |Shayan is a Bay Area native and UC Davis graduate in Design, who enjoys the outdoors and art. He is currently on the path to becoming a combo of UX designer, graphic designer, and software developer. He is a fast walker, and a slow talker. | He has an amazing cat named Phineas.      | Drawing, Cooking, Gardening   |https://github.com/shayansea |
+|     Author           |  Summary|    Fun Fact | Hobbies | GitHub Link |
+|----------------------|---------|-------------|---------|-------------|
+|<b>Andrew Xie ![Andrew's Picture](assets/images/andrew.jpg) https://github.com/Xieandrew2235           |Andrew is a recent college graduate with a degree in International Politics. He hopes that this bootcamp will be the first step towards a career in web development. | | Watch sports  ||
+|<b>Cyrus Ghadiri   https://github.com/ctghadiri       |UC Berkeley full-stack student with interests in moving into back-end web development. |Travels to a new country every year.| Traveling ||
+|<b>Jennifer Powell ![Jennifer's Picture](assets/images/jennifer.jpeg)  https://github.com/jerpowel321     |Born and raised in the bay area, Jennifer has spent the last several years working in public accounting. She currently attends UC Berkley extension Coding Bootcamp with the hopes of switching careers into web and software development.| Jennifer has been skydiving!| Card Games, Bowling, Swimming  ||
+|<b>Kevin Choi  ![Kevin's Picture](assets/images/kevin.jpg)  https://github.com/kchoi123         |Kevin Choi comes from a background in IT Infrastructure specializing in hybrid system deployment using co-locations, AWS, Azure, Rackspace, and SoftLayer. His goal is to develop tools that will help collaborate hardware and software incompatibilities, both technologically and departmentally.|             |     ||
+|<b>Shayan Anoushiravani  https://github.com/shayansea  |Shayan is a Bay Area native and UC Davis graduate in Design, who enjoys the outdoors and art. He is currently on the path to becoming a combo of UX designer, graphic designer, and software developer. He is a fast walker, and a slow talker. | He has an amazing cat named Phineas.      | Drawing, Cooking, Gardening   ||
 
 <hr>
 
-# About Inspector Otter
+# <a name="otter">About Inspector Otter</a>
 
 Inspector Otter has made it his **life mission** to help **EVERYONE** understand what in the world people around you are saying. In addition to chirping, purring, squealing, and gurgling, Mr. Otter is an avid English speaker with over 10+ years of experience studying and sharing word definitions, and translations with those who seek his knowledge. 
 
