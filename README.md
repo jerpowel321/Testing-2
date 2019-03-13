@@ -1,59 +1,72 @@
 ## Welcome to Inspector Otter's Word Search Engine:exclamation: :tophat: :eyeglasses: :mag_right:
-![Kitten](assets/images/inspectorotter.png# resize bordered)
 
+<img src="assets/images/inspectorotter-readme.png" width= "250px">
 
-#### Introduction
+[this is an Anchor](#Introduction)
 Inspector Otter's Word Search Engine is a professional, reliable, efficient word definer and translator. 
 * Are you new to an area and find yourself constantly confused by the lingo that locals use?
 * Are you tired of feeling left out when hearing your friends speak in slang terms you dont understand? 
 * Are you a parent trying to wrap your head around the nonsensical jargon your teenager says to you and/or their peers? 
+
 If you answered YES to any of the questions above, HAVE NO FEAR! Inspector Otter's Word Search is here to help YOU! 
-<hr>
+
+---
 
 
-
-
-
-## Table of Contents
-[Introduction] (#Introduction)
-- Technologies Used
+# Table of Contents
+- Introduction
+- Technologies Used 
     * HTML
     * CSS
     * JavaScript
     * JQuery
     * Bideo.js
-    * Jumble (jQuery plugin)
+    * Jumble 
     * BootStrap
     * Firebases
     * AJAX
-
 - Deployed Site
 - Meet the Authors
 - About Inspector Otter
 
-<hr>
+---
 
-## Technologies Used
+# Technologies Used 
 
-## HTML CSS BootStrap
+#### HTML CSS BootStrap
+
+
+
+
+#### Bideo.js
+Bideo.js is a JavaScript plugin which is a tool used to play a video in the background of a container/body. For our webpage we decided to feature a video of a string of waves crashing onto the sand for aesthetic reasons.
+
+More information regarding Bideo.js can be found at: https://github.com/rishabhp/bideo.js 
+
+#### Jumble
+Jumble is a jQuery plugin that jumbles up the colours of your text headers, and can also animate them. We used this plugin to bring more color to our text. Jumble is used on the Names of the Authors on the About section of the website.
+
+More information regarding Jumble can be found at: https://github.com/vonKristoff/jumble
+
 #### Firebase 
 We are storing the user-inputted word into Firebase and calling back to Firebase to display the word on the page 
 
 #### AJAX
-We are using several API's for our Inspector Otter Webpage. 
-https://www.zomato.com/
-https://www.merriam-webster.com/
-https://www.urbandictionary.com/
-https://www.musix.com/
+Our team uses several APIs for our Inspector Otter Webpage. We are using Webster Dictionary API to retrieve the formal definitions of the word the user searches. We use Urban Dictionary API to retrieve the informal/slang word definitions the user can view upon clicking on the unformal definition button. We incorporate google translate into our website through the Spanish, Chinese and Russian buttons. When a user clicks on these buttons, the translated word appears in the selected foreign langugage. In addition we are using Zomato api which allows us to pull information related to resturants near a location the user inputs. The idea is to recommend cafes for the user to check out since our target group are new people to the area.
 
-<hr>
+- https://www.merriam-webster.com/
+- https://www.urbandictionary.com/
+- https://cloud.google.com/translate/
+- https://www.zomato.com/
 
-## Deployed Site
+---
+
+# Deployed Site
 Use the link to see the deployed site: https://kchoi123.github.io/GroupProject1/
 
-<hr>
+---
 
-## Meet the Authors!
+# Meet the Authors!
 
 |     Author           |  Summary|    Fun Fact | Hobbies | GitHub |
 |----------------------|---------|-------------|---------|--------|
@@ -65,7 +78,7 @@ Use the link to see the deployed site: https://kchoi123.github.io/GroupProject1/
 
 <hr>
 
-## About Inspector Otter
+# About Inspector Otter
 
 Inspector Otter has made it his **life mission** to help **EVERYONE** understand what in the world people around you are saying. In addition to chirping, purring, squealing, and gurgling, Mr. Otter is an avid English speaker with over 10+ years of experience studying and sharing word definitions, and translations with those who seek his knowledge. 
 
@@ -78,4 +91,3 @@ Inspector Otter was casually eavesdropping on his neighbors' conversation and qu
 
 Inspector Otter recognizes that miscommunications happen everyday and hopes that he, through his hard work, can change lives for the better and ensure that people like you and I will never have to struggle to understand words that are being used, and to never find themselves in an embarrasing situation similiar to that of Mr. Badger. 
 
-# Illustrations
