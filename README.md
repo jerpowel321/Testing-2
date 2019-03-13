@@ -25,7 +25,7 @@ If you answered YES to any of the questions above, HAVE NO FEAR! Inspector Otter
     * [JavaScript](#java)
     * [JQuery](#java)
     * [AJAX](#ajax)
-    * [Firebases](#firebase)
+    * [Firebase](#firebase)
 - [Deployed Site](#deployed)
 - [Meet the Authors](#authors)
 - [About Inspector Otter](#otter)
@@ -49,7 +49,7 @@ When clicked, the Spanish Chinese and Russian buttons, display the searched word
 
 When a user searches a location within the cafe search, images and information regarding local cafes are displayed so the user may get acquainted with the area as they may be new to the city or traveling from far away.
 
-In terms of styling the webpage, we used <a name="bootstrap">BootStrap</a> display the Navigation Bar, the Footer, Buttons, and to make our website responsive. We also used our own CSS style sheet to change some colors, fonts, positioning. Additionally we used <a name="google"> GoogleFonts</a> to display our text using Inconsolata font.
+In terms of styling the webpage, we used <a name="bootstrap">BootStrap</a> display the Navigation Bar, the Footer, Buttons, About page popup and to make our website responsive. We also used our own CSS style sheet to change some colors, fonts, positioning. Additionally we used <a name="google"> GoogleFonts</a> to display our text using Inconsolata font.
 
 #### <a name="jumble">Jumble</a>
 
