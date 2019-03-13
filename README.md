@@ -53,6 +53,7 @@ In terms of styling the webpage, we used <a name="bootstrap">BootStrap</a> displ
 
 #### <a name="jumble">Jumble</a>
 
+<iframe src="https://giphy.com/embed/ieebglCGDJJa6Q06tY" width="480" height="61" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/ieebglCGDJJa6Q06tY">via GIPHY</a></p>
 Jumble is a jQuery plugin that jumbles up the colors of your text headers, and can also animate them. We used this plugin to bring more color to our webpage. You can see the Jumble effect being used on the Names of the Authors on the About section of the website.
 
 More information regarding Jumble can be found at: https://github.com/vonKristoff/jumble
