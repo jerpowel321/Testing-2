@@ -52,7 +52,9 @@ When any one of the Spanish, Chinese, or Russian buttons are clicked, the search
 
 ![demo](https://media.giphy.com/media/5SAPzdkY0M0R3wgy7F/giphy.gif)
 
-When a user inputs a location into the search bar of the cafe search function, images and other information regarding local cafes will be  displayed for user convenience.
+When a user inputs a location into the search bar of the cafe search function, images and other information regarding local cafes will be  displayed for user convenience. See demo below when a user submits a location into the location search bar. 
+
+<img src= "https://media.giphy.com/media/7FgnPeMXZb83TvsBMq/giphy.gif">
 
 In terms of styling the webpage, we used <a name="bootstrap">BootStrap</a> to display the Navigation Bar, Footer, Buttons, a pop-up about page, and to make our website responsive. We also used our own CSS style sheet to change colors, fonts, positioning. Additionally we used the Inconsolata font from <a name="google"> Google Fonts</a> to display our text.
 
