@@ -37,11 +37,14 @@ If you answered YES to any of the questions above, HAVE NO FEAR! Inspector Otter
 #### <a name="style"> HTML CSS BootStrap</a>
 
 Upon loading our site, the user will see several items displayed on the screen. 
+
+<img src="https://media.giphy.com/media/5eFuAex1xZ8LwelHJc/giphy.gif">
+
 1) A background video of waves coming ashore.
 2) A gray navigation bar at the top of the webpage displaying Inspector Otter's Logo to the left and a word search bar to the right with a yellow submit button. 
 3) A search area to the left where users can input their location and find cafes near the location that was input (as people who search word definitions may be new to the area). 
 4) An area where previously search words are displayed for the user to see. 
-5) A dark-blue colored footer with an About button. 
+5) A dark-blue colored footer with a white <img src ="assets/images/about.png" height= "25px"> button. 
 
 Upon clicking the <img src ="assets/images/search.png" height= "25px"> button for a search word within the navigation bar, the user will be shown the **Merriam-Webster** definition of the word, along with several **new** buttons. The four new buttons that appear when a user searches a word are <img src ="assets/images/foreignbuttons.png" height= "25px"> and <img src ="assets/images/unofficialbutton.png" height= "25px">. 
 
@@ -60,8 +63,6 @@ Jumble is a jQuery plugin that jumbles up the colors of your text headers, and c
 More information regarding Jumble can be found at: https://github.com/vonKristoff/jumble
 
 #### <a name="bideo">Bideo.js</a>
-
-<img src="https://media.giphy.com/media/5eFuAex1xZ8LwelHJc/giphy.gif">
 
 Bideo.js is a JavaScript plugin used to play a video in the background of a container/body. For our webpage we decided to feature a video of a string of waves crashing onto the beach for aesthetic purposes.
 
