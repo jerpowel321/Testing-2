@@ -48,7 +48,9 @@ Upon loading our site, the user will see several items displayed on the screen.
 
 Upon clicking the <img src ="assets/images/search.png" height= "25px"> button for a search word within the navigation bar, the user will be shown the **Merriam-Webster** definition of the word, along with several **new** buttons. The four new buttons that appear when a user searches a word are <img src ="assets/images/foreignbuttons.png" height= "25px"> and <img src ="assets/images/unofficialbutton.png" height= "25px">. 
 
-When any one of the Spanish, Chinese, or Russian buttons are clicked, the searched word's **translation** will be displayed. When the unofficial definition button is clicked, the **Urban Dictionary** definition of the word searched is displayed. 
+When any one of the Spanish, Chinese, or Russian buttons are clicked, the searched word's **translation** will be displayed. When the unofficial definition button is clicked, the **Urban Dictionary** definition of the word searched is displayed. See demo below when a user submits a word into the search bar and clicks on the Spanish, Chinese, Russian and Unofficial Definition buttons.
+
+<img src="https://media.giphy.com/media/5SAPzdkY0M0R3wgy7F/giphy.gif">
 
 When a user inputs a location into the search bar of the cafe search function, images and other information regarding local cafes will be  displayed for user convenience.
 
@@ -81,8 +83,7 @@ Our team uses several APIs for our Inspector Otter Webpage.
 2) We use Urban Dictionary API to retrieve the informal/slang word definitions the user can view upon clicking on the unofficial definition button. https://www.urbandictionary.com/
 3) We incorporate Google Translate into our website through the Spanish, Chinese and Russian buttons. When a user clicks on one of these buttons, the translated word appears in the selected foreign language. https://cloud.google.com/translate/
 4) In addition we are using Zomato api which allows us to pull information related to restaurants near a location the user inputs. The idea is to recommend cafes for the user to check out since our target group are new people to the area. https://www.zomato.com/
-5) We use the music-match API to pull information regarding songs and lyrics which match to the user im that have the input word and matches it to music with lyrics regarding it. https://www.musiXmatch.com 
-6) We applied https://www.giphy.com to the webpage by pulling the user input and showing a gif regarding its vibe/essence 
+5) We applied https://www.giphy.com to the webpage by pulling the user input and showing a gif regarding its vibe/essence 
 
 
 ---
@@ -99,7 +100,7 @@ Use the link to see the deployed site: https://kchoi123.github.io/GroupProject1/
 |<b>Andrew Xie :panda_face: <br><img src="assets/images/andrew.jpg" width="150px"> https://github.com/Xieandrew2235           |Andrew is a recent college graduate with a degree in International Politics. He hopes that this bootcamp will be the first step towards a career in web development. |Andrew graduated from college in China. | Watching sports :baseball:  |
 |<b>Cyrus Ghadiri :hatching_chick: ![Cyrus' Picture](assets/images/cyrus.png) https://github.com/ctghadiri       |UC Berkeley full-stack student with interests in moving into back-end web development. |Travels to a new country every year. | Traveling :airplane:, Next stop Japan :jp:  |
 |<b>Jennifer Powell :koala: ![Jennifer's Picture](assets/images/jennifer.jpeg)  https://github.com/jerpowel321     |Born and raised in the Bay Area, Jennifer has spent the last several years working in public accounting. She currently attends UC Berkley extension Coding Bootcamp with the hopes of switching careers into web and software development.| Jennifer has been skydiving!| Card Games, :spades: :hearts: :clubs: :diamonds: Bowling, :bowling: Swimming :swimmer: |
-|<b>Kevin Choi :rice_ball: ![Kevin's Picture](assets/images/kevin.jpg)  https://github.com/kchoi123         |Kevin Choi comes from a background in IT Infrastructure specializing in hybrid system deployment using co-locations, AWS, Azure, Rackspace, and SoftLayer. His goal is to develop tools that will help collaborate hardware and software incompatibilities, both technologically and departmentally.| Kevin has played on the US Junior National Badminton Team   | Netflix and sitting on the couch with his dog Polo :dog:|
+|<b>Kevin Choi :rice_ball: ![Kevin's Picture](assets/images/kevin.jpg)  https://github.com/kchoi123         |Kevin Choi comes from a background in IT Infrastructure specializing in hybrid system deployment using co-locations, AWS, Azure, Rackspace, and SoftLayer. His goal is to develop tools that will help collaborate hardware and software incompatibilities, both technologically and departmentally.| Kevin has played on the US Junior National Badminton Team.   | Netflix and sitting on the couch with his dog Polo :dog:|
 |<b>Shayan Anoushiravani :cat: ![Shayan Picture](assets/images/shayan.png) https://github.com/shayansea  |Shayan is a Bay Area native and UC Davis graduate in Design, who enjoys the outdoors and art. He is currently on the path to becoming a combo of UX designer, graphic designer, and software developer. | Shayan has an amazing cat named Phineas. :cat: | Drawing, Cooking, Gardening :herb: |
 
 <hr>
