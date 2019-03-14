@@ -46,11 +46,13 @@ Upon loading our site, the user will see several items displayed on the screen.
 4) An area where previously search words are displayed for the user to see. 
 5) A dark-blue colored footer with a white <img src ="assets/images/about.png" height= "25px"> button. 
 
-Upon clicking the <img src ="assets/images/search.png" height= "25px"> button for a search word within the navigation bar, the user will be shown the **Merriam-Webster** definition of the word, along with several **new** buttons. The four new buttons that appear when a user searches a word are <img src ="assets/images/foreignbuttons.png" height= "25px"> and <img src ="assets/images/unofficialbutton.png" height= "25px">. 
+Upon clicking the <img src ="assets/images/search.png" height= "25px"> button for a search word within the navigation bar, the user will be shown the **Merriam-Webster** definition of the word, along with several **new** buttons. The four new buttons that appear when a user searches a word are <img src ="assets/images/foreignbuttons.png" height= "25px"> and <img src ="assets/images/unofficialbutton.png" height= "25px">. When any one of the Spanish, Chinese, or Russian buttons are clicked, the searched word's **translation** will be displayed. See demo below when a user inputs a word into the search bar, submits the word and then clicks on the Spanish, Chinese and Russian translation buttons. 
 
-When any one of the Spanish, Chinese, or Russian buttons are clicked, the searched word's **translation** will be displayed. When the unofficial definition button is clicked, the **Urban Dictionary** definition of the word searched is displayed. See demo below when a user submits a word into the search bar and clicks on the Spanish, Chinese, Russian and Unofficial Definition buttons.
+<img src="https://media.giphy.com/media/37R9qO9YNVuy7hDDR5/giphy.gif">
 
-![demo](https://media.giphy.com/media/5SAPzdkY0M0R3wgy7F/giphy.gif)
+When the unofficial definition button is clicked, the **Urban Dictionary** definition of the word searched is displayed. See demo below when a user clicks on the Unofficial Definition buttons. 
+
+imc src="https://media.giphy.com/media/3HxDs4rYiZ2YxwdYkd/giphy.gif">
 
 When a user inputs a location into the search bar of the cafe search function, images and other information regarding local cafes will be  displayed for user convenience. See demo below when a user submits a location into the location search bar. 
 
