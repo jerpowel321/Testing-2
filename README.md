@@ -43,7 +43,7 @@ Upon loading our site, the user will see several items displayed on the screen.
 4) An area where previously search words are displayed for the user to see. 
 5) A dark-blue colored footer with an About button. 
 
-Upon clicking the **submit** button for a search word within the navigation bar, the user will be shown the **Merriam-Webster** definition of the word, along with several **new** buttons. The four new buttons that appear when a user searches a word are **Spanish**, **Chinese**, **Russian** and **Unofficial Definition**. 
+Upon clicking the ![Search Button](assets/images/search.png) button for a search word within the navigation bar, the user will be shown the **Merriam-Webster** definition of the word, along with several **new** buttons. The four new buttons that appear when a user searches a word are **Spanish**, **Chinese**, **Russian** and **Unofficial Definition**. 
 
 When any one of the Spanish, Chinese, or Russian buttons are clicked, the searched word's **translation** will be displayed. When the unofficial definition button is clicked, the **Urban Dictionary** definition of the word searched is displayed. 
 
@@ -72,7 +72,7 @@ More information regarding Bideo.js can be found at: https://github.com/rishabhp
 The majority of our HTML webpage is being dynamically generated through our JavaScript file using the jQuery library. Our JavaScript is organized by section, seperating the APIs we used in this project by section. 
 
 #### <a name="firebase">Firebase</a>
-We are storing the user-inputted word into Firebase and calling back to Firebase to display the word on the page. We are also storing the count of the number of words that are stored in Firebase, which we can reset by deleting the data on Firebase. 
+We are using firebase to store the the user-inputted word. The database is then being called upon to display words that have been searched under the _previous word searches_ section of our webpage. We are also setting a counter to display the number of words which have been searched and stored in firebase.  
 
 #### <a name="ajax">API Technologies</a>
 Our team uses several APIs for our Inspector Otter Webpage. 
