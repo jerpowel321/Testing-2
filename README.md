@@ -50,7 +50,7 @@ Upon clicking the <img src ="assets/images/search.png" height= "25px"> button fo
 
 When any one of the Spanish, Chinese, or Russian buttons are clicked, the searched word's **translation** will be displayed. When the unofficial definition button is clicked, the **Urban Dictionary** definition of the word searched is displayed. See demo below when a user submits a word into the search bar and clicks on the Spanish, Chinese, Russian and Unofficial Definition buttons.
 
-<img src="https://giphy.com/gifs/5SAPzdkY0M0R3wgy7F/html5">
+<iframe src="https://giphy.com/embed/5SAPzdkY0M0R3wgy7F" width="480" height="226" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/5SAPzdkY0M0R3wgy7F">via GIPHY</a></p>
 
 When a user inputs a location into the search bar of the cafe search function, images and other information regarding local cafes will be  displayed for user convenience.
 
