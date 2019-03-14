@@ -52,7 +52,7 @@ Upon clicking the <img src ="assets/images/search.png" height= "25px"> button fo
 
 When the unofficial definition button is clicked, the **Urban Dictionary** definition of the word searched is displayed. See demo below when a user clicks on the Unofficial Definition buttons. 
 
-imc src="https://media.giphy.com/media/3HxDs4rYiZ2YxwdYkd/giphy.gif">
+<img src="https://media.giphy.com/media/3HxDs4rYiZ2YxwdYkd/giphy.gif">
 
 When a user inputs a location into the search bar of the cafe search function, images and other information regarding local cafes will be  displayed for user convenience. See demo below when a user submits a location into the location search bar. 
 
