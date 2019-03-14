@@ -52,6 +52,7 @@ When a user inputs a location into the search bar of the cafe search function, i
 In terms of styling the webpage, we used <a name="bootstrap">BootStrap</a> to display the Navigation Bar, Footer, Buttons, a pop-up about page, and to make our website responsive. We also used our own CSS style sheet to change colors, fonts, positioning. Additionally we used the Inconsolata font from <a name="google"> Google Fonts</a> to display our text.
 
 #### <a name="jumble">Jumble</a>
+
 <img src="https://media.giphy.com/media/ieebglCGDJJa6Q06tY/giphy.gif">
 
 Jumble is a jQuery plugin that jumbles up the colors of your text headers, and can also be animated. We used this plugin to bring more color to our webpage. You can see the Jumble effect being used on the names of the authors in the About section of the website.
@@ -59,6 +60,8 @@ Jumble is a jQuery plugin that jumbles up the colors of your text headers, and c
 More information regarding Jumble can be found at: https://github.com/vonKristoff/jumble
 
 #### <a name="bideo">Bideo.js</a>
+
+<img src="https://media.giphy.com/media/5eFuAex1xZ8LwelHJc/giphy.gif">
 
 Bideo.js is a JavaScript plugin used to play a video in the background of a container/body. For our webpage we decided to feature a video of a string of waves crashing onto the beach for aesthetic purposes.
 
